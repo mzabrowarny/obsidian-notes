@@ -1,9 +1,5 @@
----
-tags:
-  - linux
-  - users
-  - security
----
+# User Management
+
 Enumerating users and understanding identity is critical for both administration and penetration testing.
 
 ## Current User Context

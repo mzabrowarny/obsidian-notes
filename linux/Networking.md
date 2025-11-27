@@ -1,9 +1,5 @@
----
-tags:
-  - linux
-  - networking
-  - cli
----
+# Networking
+
 This note covers essential commands for network configuration, diagnostics, and connection monitoring in Linux.
 
 ## Interface & IP Configuration

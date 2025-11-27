@@ -1,10 +1,5 @@
----
-tags:
-  - linux
-  - processes
-  - systemd
-  - cron
----
+# Processes & Services
+
 Managing running tasks and background services is a daily task in Linux environments.
 
 ## Process Management

@@ -1,9 +1,5 @@
----
-tags:
-  - linux
-  - apt
-  - maintenance
----
+# Package Management
+
 Kali Linux (Debian-based) uses the `apt` command to manage software packages (.deb).
 
 ## Updates & Upgrades

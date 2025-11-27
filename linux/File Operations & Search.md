@@ -1,9 +1,5 @@
----
-tags:
-  - linux
-  - filesystem
-  - cli
----
+# File Operations & Search
+
 Mastering the command line involves efficiently creating, managing, and finding files within the Linux file system.
 
 ## Directory Listing

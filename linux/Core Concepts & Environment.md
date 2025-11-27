@@ -1,21 +1,15 @@
----
-tags:
-  - linux
-  - hub
-  - cybersecurity
----
-
+# Core Concepts & Environment
 ###  File System Hierarchy
 
 Understanding where files are stored is crucial for navigating Linux.
 
-> [!NOTE] Key Directories
-> * **`/bin`** – Essential command binaries (e.g., `ls`, `cp`).
-> * **`/dev`** – Device files (e.g., hard drives like `/dev/sda`).
-> * **`/etc`** – Configuration files (e.g., `passwd`, `resolv.conf`).
-> * **`/home`** – User home directories.
-> * **`/tmp`** – Temporary files (cleared upon reboot).
-> * **`/var`** – Variable data (system logs, cache).
+> Key Directories
+> ***`/bin`** – Essential command binaries (e.g., `ls`, `cp`).
+> ***`/dev`** – Device files (e.g., hard drives like `/dev/sda`).
+> ***`/etc`** – Configuration files (e.g., `passwd`, `resolv.conf`).
+> ***`/home`** – User home directories.
+> ***`/tmp`** – Temporary files (cleared upon reboot).
+> ***`/var`** – Variable data (system logs, cache).
 
 ---
 
