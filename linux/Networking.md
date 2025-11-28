@@ -2,6 +2,8 @@
 
 This note covers essential commands for network configuration, diagnostics, and connection monitoring in Linux.
 
+##
+
 ## Interface & IP Configuration
 * **`ip a`**: Displays detailed information about network interfaces, including IP addresses, subnet masks, and status.
 * **`ip n`**: Shows the neighbor table (ARP cache), mapping IP addresses to MAC addresses for devices in the local network.
